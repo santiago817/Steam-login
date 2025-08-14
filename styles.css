@@ -5,12 +5,13 @@
 }
 
 .t {
+  margin-top: 70px;
   padding-top: 70px;
   padding-left: 60px;
   padding-bottom: 100px;
   height: 700px;
   width: 650px;
-  background: linear-gradient(to right, #413f3f, #1b1b1b);
+  background: linear-gradient(to right, #3c3c42, #1b1b1b);
   color: white;
 }
 
@@ -27,7 +28,6 @@
 
 .t3 {
   margin-top: 40px;
-  height: 10;
 }
 
 .t4 {
@@ -44,7 +44,6 @@
   margin-top: 20px;
   display: flex;
   align-items: center;
-  color: darkgray;
   gap: 8px;
 }
 
@@ -85,4 +84,11 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  background: url("https://www.notebookcheck.com/fileadmin/_processed_/f/1/csm_Steam-Videoplayer-Leak_7f21d086d6.jpg");
+}
+#Pais {
+  width: 200px;
+  height: 40px;
+  font-size: 16px;
+  padding: 8px;
 }
